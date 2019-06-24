@@ -42,7 +42,7 @@ gretty {
 }
 
 war {
-    archiveName 'gradle-war.war'
+    archiveName 'gradle-war-nik.war'
 }
 
 test {
