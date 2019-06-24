@@ -41,7 +41,9 @@ gretty {
     contextPath = '/gradle-war'
 }
 
-
+war {
+    archiveName 'gradle-war-nik.war'
+}
 
 test {
     testLogging {
