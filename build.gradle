@@ -41,10 +41,6 @@ gretty {
     contextPath = '/gradle-war'
 }
 
-war {
-    archiveName 'gradle-war-nik.war'
-}
-
 test {
     testLogging {
         // show standard out and standard error of the test JVM(s) on the console
